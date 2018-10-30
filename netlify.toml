@@ -3,5 +3,5 @@
   to = "/random.js"
   status = 200
   force = false
-  conditions = {Encoding = ["br"]}
+  conditions = {Accept-Encoding = ["br"]}
 
